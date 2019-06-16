@@ -13,6 +13,9 @@ This does the following
 
 
 ```bash
+# Install node-curl dependency
+npm install
+
 # Build the binding for AWS Node 10.x using
 ./build.sh
 
